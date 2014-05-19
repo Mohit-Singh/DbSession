@@ -1,0 +1,25 @@
+{
+   "name": "MohitOssCube/DbSession",
+   "description": "Store session in database in zend framework 2",
+   "type": "library",
+   "keywords": [
+       "zf2",
+       "Session",
+       "ZF2 DB Session"
+   ],
+   "homepage": "https://github.com/MohitOssCube/DbSession",
+   "authors": [
+       {
+           "name": "Mohit K Singh",
+           "email": "mohit.singh2090@gmail.com",
+       }
+   ],
+   "require": {
+       "php": ">=5.3"
+   },
+   "autoload": {
+       "classmap": [
+           "./Module.php"
+       ]
+   }
+}
