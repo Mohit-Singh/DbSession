@@ -6,23 +6,7 @@ Store Session in database in ZF2.
 How To Use
 
 This a very simple module to store all your session data in your database. 
-for this add the following code in you composer.json
-
-```php
- "require": {
-  "MohitOssCube/DbSession" : "dev-master"
-  }
-
-```
-after this run the following command
-
-```php
->php composer.phar install
-
-```
-
-
-now create a table using the following schema.
+for this create a table using the following schema.
 
 ```php
 CREATE TABLE `session` (
