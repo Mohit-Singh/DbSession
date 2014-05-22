@@ -19,7 +19,7 @@ CREATE TABLE `session` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ```
 
-Now check the update the following database requirement in the config
+Now update the following database requirement in the config
 
 ```php
     'db' => array(
