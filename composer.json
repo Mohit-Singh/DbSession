@@ -1,5 +1,5 @@
 {
-   "name": "Mohit-Singh/DbSession",
+   "name": "mohit-singh/db-session",
    "description": "Store session in database in zend framework 2",
    "type": "library",
    "keywords": [
