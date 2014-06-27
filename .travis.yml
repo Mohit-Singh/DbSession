@@ -1,1 +1,3 @@
-
+language: PHP
+PHP:
+  - 5.3
