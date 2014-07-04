@@ -1,6 +1,6 @@
 <?php
 return array(
-    'db' => array(
+   /* 'db' => array(
         'driver'         => 'Pdo',
         'dsn'            => 'mysql:dbname=db_name;host=localhost',
         'username'       => 'user_name',
@@ -24,5 +24,5 @@ return array(
         'cookie_lifetime'   => 2419200,
         'gc_maxlifetime'    => 2419200,
     
-    ),
+    ),*/
 );
